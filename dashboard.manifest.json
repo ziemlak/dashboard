@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "kind": "reterminal-dashboard-manifest",
+  "blob": "dashboard.enc.json",
+  "blob_url": "https://raw.githubusercontent.com/ziemlak/dashboard/refs/heads/main/dashboard.enc.json",
+  "sha256": "c1203ef213fa29046ad56020e3359e1a65b283db0cfe30760d104abfbf85e386",
+  "created_at": "2026-07-12T20:44:16.407Z",
+  "expires_at": "2026-07-12T20:54:16.407Z",
+  "content_type": "image/png",
+  "width": 800,
+  "height": 480,
+  "payload_bytes": 45460,
+  "png_bytes": 45460,
+  "key_id": "default"
+}
