@@ -3,13 +3,13 @@
   "kind": "reterminal-dashboard-manifest",
   "blob": "dashboard.enc.json",
   "blob_url": "https://raw.githubusercontent.com/ziemlak/dashboard/refs/heads/main/dashboard.enc.json",
-  "sha256": "4772135dd872b89661f71b8f5f7f6f928541beb78b0c03c40b77b056df280f3b",
-  "created_at": "2026-08-07T17:40:01.216Z",
-  "expires_at": "2026-08-07T17:50:01.216Z",
+  "sha256": "bb3d668a30c98e65d6e91886dfe249a253780d77b5709d040163d7e44836f037",
+  "created_at": "2026-08-07T17:43:01.218Z",
+  "expires_at": "2026-08-07T17:53:01.218Z",
   "content_type": "image/png",
   "width": 800,
   "height": 480,
-  "payload_bytes": 42173,
-  "png_bytes": 42173,
+  "payload_bytes": 42152,
+  "png_bytes": 42152,
   "key_id": "default"
 }
